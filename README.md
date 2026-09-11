@@ -8,4 +8,4 @@ This repository is provided for educational and research purposes only. You are 
 
 | Title | Description | Status |
 |----------|-------------|--------|
-| KeePassXC Injection | Hooking KeePassXC to extract sensitive details from password entries | WIP |
+|  |  |  |
